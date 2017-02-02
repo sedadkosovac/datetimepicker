@@ -532,8 +532,8 @@
 		value: '',
 		rtl: false,
 
-		format:	'Y/m/d H:i',
-		formatTime:	'H:i',
+		format:	'd/m/Y h:i A',
+		formatTime:	'g:i A',
 		formatDate:	'Y/m/d',
 
 		startDate:	false, // new Date(), '1986/12/08', '-1970/01/05','-1970/01/05',
