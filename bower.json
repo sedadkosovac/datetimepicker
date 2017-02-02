@@ -1,6 +1,6 @@
 {
   "name": "datetimepicker",
-  "version": "2.5.4",
+  "version": "2.5.6",
   "main": [
     "build/jquery.datetimepicker.full.min.js",
     "jquery.datetimepicker.css"
