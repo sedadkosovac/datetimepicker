@@ -1,5 +1,5 @@
 {
-  "name": "datetimepicker",
+  "name": "datetimepicker-meridiem-indicator",
   "version": "2.5.6",
   "main": [
     "build/jquery.datetimepicker.full.min.js",
